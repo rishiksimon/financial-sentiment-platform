@@ -23,17 +23,6 @@ The project uses **FinBERT (Financial Bidirectional Encoder Representations from
 
 🔗 Live Demo: https://financial-sentiment-platform-idvjjycdohrnz6kbd3ntjx.streamlit.app/
 
----
-
-## 📸 Screenshots
-
-### Dashboard Overview
-
-![Dashboard Screenshot](images/dashboard.png)
-
-### Sentiment Analysis Results
-
-![Sentiment Analysis](images/sentiment.png)
 
 ---
 
